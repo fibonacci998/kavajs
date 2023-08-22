@@ -1,0 +1,6 @@
+[submodule "kava"]
+	path = kava
+	url = https://github.com/Kava-Labs/kava.git
+[submodule "cosmos-sdk"]
+	path = cosmos-sdk
+	url = https://github.com/cosmos/cosmos-sdk.git
